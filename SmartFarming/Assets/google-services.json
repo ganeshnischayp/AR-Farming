@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "311087905548",
+    "firebase_url": "https://arfarming-b253f.firebaseio.com",
+    "project_id": "arfarming-b253f",
+    "storage_bucket": "arfarming-b253f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311087905548:android:89a6a0da6f397327",
+        "android_client_info": {
+          "package_name": "com.NITK.sfar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311087905548-ijbabi9c6l615hbiv0qvthiirfhlkj3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ5tJkJEQULB4z_fIddlGZA6YXJ-uY-fo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
